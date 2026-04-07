@@ -1,0 +1,8 @@
+{
+  "name": "Unified Health System",
+  "description": "A comprehensive healthcare access platform for booking appointments, telemedicine, and digital health records.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
